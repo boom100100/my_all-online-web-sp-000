@@ -9,6 +9,7 @@ def my_all?(collection)
     i = i + 1
 
   end
+  return bool
 end
 
 #my_all?(collection) {|i| i < 3}
